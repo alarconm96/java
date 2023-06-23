@@ -4,7 +4,6 @@
  * April 19, 2022
  * Assignment 6
  * */
-package assignment6;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -22,7 +21,7 @@ public class TestHashTable {
     	
     	//read from HashTable.csv file
     	try {
-			File file = new File("HashTable.csv");
+			File file = new File("hashTable_IT306Project/HashTable.csv");
 			Scanner sc = new Scanner(file);
 			while (sc.hasNextLine()) {
 				//split values using comma
