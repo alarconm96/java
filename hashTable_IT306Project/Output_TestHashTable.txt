@@ -1,0 +1,112 @@
+Element G0001 inserted
+Element G0001 inserted (polynomial)
+Element G0102 inserted
+Element G0102 inserted (polynomial)
+Element G0203 inserted
+Element G0203 inserted (polynomial)
+Element G0004 inserted
+Element G0004 inserted (polynomial)
+Element G0205 inserted
+Element G0205 inserted (polynomial)
+Element G0506 inserted
+Element G0506 inserted (polynomial)
+Element G1017 inserted
+Element G1017 inserted (polynomial)
+Element G0257 inserted
+Element G0257 inserted (polynomial)
+Element G1234 inserted
+Element G1234 inserted (polynomial)
+Element G0325 inserted
+Element G0325 inserted (polynomial)
+Element G0429 inserted
+Element G0429 inserted (polynomial)
+Element G1007 does not exist
+Element G1234 removed (polynomial)
+Element G0257 removed
+Element G0257 removed (polynomial)
+Element G0429 found
+Element G0069 was NOT found (polynomial)
+Element G0102 removed
+Element G0102 removed (polynomial)
+Element G0523 inserted
+Element G0523 inserted (polynomial)
+Element G0679 inserted
+Element G0679 inserted (polynomial)
+Element G0119 inserted
+Element G0119 inserted (polynomial)
+Element G3018 inserted
+Element G3018 inserted (polynomial)
+Element G0115 inserted
+Element G0115 inserted (polynomial)
+Element G3016 inserted
+Element G3016 inserted (polynomial)
+Element G0319 inserted
+Element G0319 inserted (polynomial)
+Element G0298 inserted
+Element G0298 inserted (polynomial)
+Element G0004 removed
+Element G0506 removed (polynomial)
+Element G0203 found
+Element G0001 found (polynomial)
+Element G0506 found
+Element G0506 was NOT found (polynomial)
+Element G0205 removed
+Element G0115 removed (polynomial)
+Element G1234 removed
+Element G3016 removed (polynomial)
+Element G0679 found
+Element G0679 found (polynomial)
+
+Printing HashTable Contents
+[1] null
+[2] null
+[3] null
+[4] null
+[5] null
+[6] Key: G0001 || Name: Bach Anh || Dept: IST || GPA: 3.21
+[7] null
+[8] Key: DEFUNCT || DEFUNCT
+[9] Key: DEFUNCT || DEFUNCT
+[10] Key: G0203 || Name: Faulk Dajour || Dept: ME || GPA: 2.95
+[11] null
+[12] Key: DEFUNCT || DEFUNCT
+[13] Key: G0115 || Name: Lauer Matthew || Dept: CS || GPA: 2.97
+[14] Key: G1017 || Name: Anukam Tochukwu || Dept: IST || GPA: 3.2
+[15] Key: DEFUNCT || DEFUNCT
+[16] Key: G0506 || Name: Ingram Xavier || Dept: IST || GPA: 3.63
+[17] Key: G0325 || Name: Lorusso Robert || Dept: IST || GPA: 3.71
+[18] Key: G0523 || Name: Patel Shoumil || Dept: IST || GPA: 2.55
+[19] Key: G0119 || Name: Resha Ramisa || Dept: IST || GPA: 3.82
+[20] Key: G0429 || Name: Lyons Andrew || Dept: IST || GPA: 2.76
+[21] Key: G3018 || Name: Alarcon Marco || Dept: IST || GPA: 3.65
+[22] Key: G3016 || Name: Lin Changzheng || Dept: ME || GPA: 3.2
+[23] Key: G0319 || Name: Nguyen Thanh || Dept: CS || GPA: 2.92
+[24] Key: G0298 || Name: Taylor Anthony || Dept: CS || GPA: 2.9
+[25] null
+[26] null
+[27] Key: G0679 || Name: Repetti Juniper || Dept: IST || GPA: 3.97
+[28] null
+[29] null
+[30] null
+[31] null
+[32] null
+[33] null
+[34] null
+[35] null
+[36] null
+[37] null
+
+Printing HashTable Contents
+[1] null
+[2] null
+[3] null
+[4] null
+[5] null
+[6] null
+[7] null
+[37] null
+
+EXTRA CREDIT
+Comparing Base HashTable and Polynomial HashTable Statistics
+Base: Number of collisions: 25
+Polynomial: Number of collisions: 7
