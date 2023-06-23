@@ -4,7 +4,6 @@
  * April 19, 2022
  * Assignment 6
  * */
-package assignment6;
 
 public class ArrayList{
     protected Entry[] data;

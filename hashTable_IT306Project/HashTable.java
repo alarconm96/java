@@ -4,7 +4,7 @@
  * April 19, 2022
  * Assignment 6
  * */
-package assignment6;
+
 
 public class HashTable extends ArrayList{
     private static int numElement;

@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "mockDatabase_IT206Project",
+        "jdbc",
+        "hashTable_IT306Project"
+    ]
+}
